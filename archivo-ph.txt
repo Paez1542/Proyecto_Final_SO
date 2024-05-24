@@ -1,0 +1,5 @@
+Medicion de PH 1: 6 || Hora de la medicion: 11:31:41
+Medicion de PH 2: 6.5 || Hora de la medicion: 11:31:44
+Medicion de PH 3: 4 || Hora de la medicion: 11:31:50
+Medicion de PH 4: 7 || Hora de la medicion: 11:31:53
+Medicion de PH 5: 7.2 || Hora de la medicion: 11:31:56
