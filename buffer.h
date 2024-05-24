@@ -1,6 +1,6 @@
 /**************************************
-Autores:  Carlos Mejia
-          Juan Paez
+Autores:  Juan Paez
+          Carlos Mejia
 
 Fecha: 28/04/2024
 Tema: PROYECTO (Monitoreo de Sensores)
